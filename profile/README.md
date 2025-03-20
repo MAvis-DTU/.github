@@ -14,7 +14,7 @@ The following sections described here are meant as brief summaries of what some 
 
 **DO THIS**, for new repositories, add a new section with a brief description.
 
-‼️Some of the repositories might not appear if they are private. Contact organisation owner if you wish to gain access.‼️
+‼️Some of the repositories might not appear if they are private🔐. Contact organisation owner if you wish to gain access🔓.‼️
 
 ### 📂`02182-MAvis-Code-Handout`
 
