@@ -1,7 +1,7 @@
 ## Who are we? 🙋‍♀️
 This organisation contains code developed in relation to work done by Thomas Bolander Ph.D., professor at The Technical University of Denmark (Research, Education and Outsourcing).
 
-![Alt Text](images/what_we_do.gif)
+![Alt Text](https://github.com/MAvis-DTU/.github/blob/722fa67c977b14d3091509da35598a84075461e9/images/what_we_do.jpeg)
 
 The repository has code related to the following topics,
 - Course material for 02182 Symbolic Artificial Intelligence
