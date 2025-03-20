@@ -1,4 +1,6 @@
 ## Who are we?
+This organisation contains code developed in relation to work done by Thomas Bolander Ph.D., professor at The Technical University of Denmark. 
+
 
 ## Repositories in the organisation
 The following sections described here are meant as brief summaries of what some of the more important repositories in this organisation contain.
