@@ -12,19 +12,19 @@ The repository has code related to the following topics,
 ## Repositories in the organisation
 The following sections described here are meant as brief summaries of what some of the more important repositories in this organisation contain.
 
-**NOTE** Some of the repositories might not appear if they are private. Contact organisation owner if you wish to gain access.
-
 **DO THIS**, for new repositories, add a new section with a brief description.
 
-### `02182-MAvis-Code-Handout`
+‼️Some of the repositories might not appear if they are private. Contact organisation owner if you wish to gain access.‼️
 
-### `R2DTU`
+### 📂`02182-MAvis-Code-Handout`
 
-### `cloudspeech`
+### 📂`R2DTU`
 
-### `pyRobot`
+### 📂`cloudspeech`
 
-### `research-evaluation-2023`
+### 📂`pyRobot`
+
+### 📂`research-evaluation-2023`
 During the research evaluation of DTU in 2023 the research group was tasked to create a demonstration showcasing a more informal site of what we do at DTU. The repository contains code for a chatbot-setup with our Pepper robots. It takes a camera feed utilising a RealSense depth-camera, and connects to the OpenAI gpt models to create chat features and gestures during chatting. It has a UI that displays the camera feed and the chat side-by-side as the chat progresses.
 
 
