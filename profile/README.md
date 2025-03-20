@@ -1,9 +1,9 @@
-## Who are we?
+## Who are we? 🙋‍♀️
 This organisation contains code developed in relation to work done by Thomas Bolander Ph.D., professor at The Technical University of Denmark (Research, Education and Outsourcing).
 
 **ADD DIAGRAM HERE**
 
-The repository has code related to the following projects:
+The repository has code related to the following topics,
 - Course material for 02182 Symbolic Artificial Intelligence
 - Outsourced work with robot demonstrations (cloudspeech) for presentations
 - Demonstration for DTU research evaluation 2023.
@@ -25,6 +25,7 @@ The following sections described here are meant as brief summaries of what some 
 ### `pyRobot`
 
 ### `research-evaluation-2023`
+During the research evaluation of DTU in 2023 the research group was tasked to create a demonstration showcasing a more informal site of what we do at DTU. The repository contains code for a chatbot-setup with our Pepper robots. It takes a camera feed utilising a RealSense depth-camera, and connects to the OpenAI gpt models to create chat features and gestures during chatting. It has a UI that displays the camera feed and the chat side-by-side as the chat progresses.
 
 
 
