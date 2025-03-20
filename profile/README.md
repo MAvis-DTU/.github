@@ -1,6 +1,13 @@
 ## Who are we?
-This organisation contains code developed in relation to work done by Thomas Bolander Ph.D., professor at The Technical University of Denmark. 
+This organisation contains code developed in relation to work done by Thomas Bolander Ph.D., professor at The Technical University of Denmark (Research, Education and Outsourcing).
 
+**ADD DIAGRAM HERE**
+
+The repository has code related to the following projects:
+- Course material for 02182 Symbolic Artificial Intelligence
+- Outsourced work with robot demonstrations (cloudspeech) for presentations
+- Demonstration for DTU research evaluation 2023.
+- General feature development on the Pepper robots 
 
 ## Repositories in the organisation
 The following sections described here are meant as brief summaries of what some of the more important repositories in this organisation contain.
