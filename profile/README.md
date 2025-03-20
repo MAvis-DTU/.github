@@ -1,7 +1,23 @@
 ## Who are we?
 
 ## Repositories in the organisation
-- `pyRobot` contains ...
+The following sections described here are meant as brief summaries of what some of the more important repositories in this organisation contain.
+
+**NOTE** Some of the repositories might not appear if they are private. Contact organisation owner if you wish to gain access.
+
+**DO THIS**, for new repositories, add a new section with a brief description.
+
+### `02182-MAvis-Code-Handout`
+
+### `R2DTU`
+
+### `cloudspeech`
+
+### `pyRobot`
+
+### `research-evaluation-2023`
+
+
 
 <!--
 
